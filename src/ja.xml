@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user id="1">
+        <name>zhangshan</name>
+        <age>22</age>
+        <gender>男</gender>
+        <code>
+            <![CDATA[if(a< b &&c>b)){ }]]]>
+<![CDATA[if(x<5&&y>3)){
+            }]]]>
+        </code>
+    </user>
+    <user id="2">
+        <name>陈三</name>
+        <age>23</age>
+        <gender>女</gender>
+        <color>red</color>
+
+    </user>
+
+</users>
